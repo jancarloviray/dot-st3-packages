@@ -1,0 +1,32 @@
+{
+	"auto_upgrade": false,
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Babel",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"EditorConfig",
+		"Glue",
+		"JavaScript Completions",
+		"JsFormat",
+		"LESS",
+		"Modific",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"Theme - Spaceblack",
+		"Theme - Spacegray",
+		"TrailingSpaces"
+	]
+}

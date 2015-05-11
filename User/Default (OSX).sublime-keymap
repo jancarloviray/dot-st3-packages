@@ -1,0 +1,7 @@
+[
+    { "keys": ["super+shift+h"], "command": "prev_view" },
+    { "keys": ["super+shift+l"], "command": "next_view" },
+    { "keys": ["super+alt+h"], "command": "prev_view" },
+    { "keys": ["super+alt+l"], "command": "next_view" },
+    { "keys": ["ctrl+e"], "command": "toggle_side_bar" }
+]
