@@ -11,15 +11,12 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"AutoFileName",
 		"Babel",
 		"Babel Snippets",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"DocBlockr",
 		"EditorConfig",
-		"Glue",
-		"JavaScript Completions",
 		"JavaScript Ultimate",
 		"JsFormat",
 		"LESS",

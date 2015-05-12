@@ -1,7 +1,11 @@
 {
+    "animation_enabled": true,
+    "auto_complete_delay": 100,
     "auto_indent": true,
     "auto_match_enabled": true,
-    "bolder_folder_labels": true,
+    "bold_folder_labels": true,
+    "caret_extra_bottom": 3,
+    "caret_extra_top": 1,
     "caret_extra_width": 1,
     "caret_style": "phase",
     "close_windows_when_empty": false,
@@ -10,10 +14,13 @@
     "color_scheme2": "Packages/User/SublimeLinter/predawn (SL).tmTheme",
     "color_scheme3": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
     "copy_with_empty_selection": false,
+    "default_encoding": "UTF-8",
     "drag_text": false,
-    "draw_minimap_border": true,
-    "enable_tab_scrolling": false,
-    "fade_fold_buttons": true,
+    "draw_indent_guides": true,
+    "draw_minimap_border": false,
+    "enable_tab_scrolling": true,
+    "enable_telemetry": false,
+    "fade_fold_buttons": false,
     "file_exclude_patterns": [
         ".DS_Store"
     ],
@@ -24,13 +31,13 @@
         ".bundle",
         ".rbx"
     ],
-    "font_face": "Source Code Pro Medium",
+    "font_face": "Menlo",
     "font_options": [
         "gray_antialias",
         "subpixel_antialias",
         "no_round"
     ],
-    "font_size": 14,
+    "font_size": 16,
     "format_on_save": true,
     "gutter": true,
     "highlight_line": true,
@@ -38,33 +45,42 @@
     "ignored_packages": [
         "JavaScript"
     ],
+    "indent_guide_options": [
+        "draw_normal"
+    ],
+    "line_numbers": true,
     "line_padding_bottom": 3,
     "line_padding_top": 3,
-    "margin": 4,
-    "match_brackets_content": false,
-    "match_selection": false,
+    "margin": 10,
+    "match_brackets": true,
+    "match_brackets_angle": false,
+    "match_brackets_braces": true,
+    "match_brackets_content": true,
+    "match_brackets_square": true,
+    "match_selection": true,
     "match_tags": true,
     "open_files_in_new_window": false,
     "overlay_scroll_bars": "enabled",
     "preview_on_click": false,
     "remember_open_files": true,
     "rulers": [
-        100,
-        120
+        80,
+        100
     ],
-    "scroll_past_end": false,
+    "scroll_past_end": true,
     "scroll_speed": 5.0,
     "shift_tab_unindent": true,
+    "show_encoding": true,
     "show_errors_on_save": true,
     "show_full_path": true,
+    "show_line_endings": true,
     "show_tab_close_buttons": false,
     "smart_indent": true,
     "spacegray_sidebar_font_large": true,
     "spacegray_sidebar_tree_large": true,
     "spacegray_tabs_auto_width": true,
     "spacegray_tabs_font_large": true,
-    "spacegray_tabs_large": true,
-    "tabs_small": true,
+    "spacegray_tabs_xlarge": true,
     "theme": "Spacegray.sublime-theme",
     "theme1": "Default.sublime-theme",
     "theme2": "predawn.sublime-theme",
@@ -73,8 +89,10 @@
     "trailing_spaces_save_after_trim": true,
     "translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": true,
+    "use_simple_full_screen": true,
+    "use_tab_stops": true,
     "vintage_start_in_command_mode": true,
     "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
     "word_wrap": false,
-    "wrap_width": 80
+    "wrap_width": 100
 }
