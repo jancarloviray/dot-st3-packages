@@ -11,22 +11,28 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"AutoFileName",
 		"Babel",
+		"Babel Snippets",
 		"BracketHighlighter",
 		"Color Highlighter",
+		"DocBlockr",
 		"EditorConfig",
 		"Glue",
 		"JavaScript Completions",
+		"JavaScript Ultimate",
 		"JsFormat",
 		"LESS",
 		"Modific",
+		"Node Completions",
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
-		"Theme - Spaceblack",
 		"Theme - Spacegray",
-		"TrailingSpaces"
+		"Tint",
+		"TrailingSpaces",
+		"WordHighlight"
 	]
 }
