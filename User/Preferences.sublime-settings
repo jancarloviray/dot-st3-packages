@@ -89,7 +89,7 @@
     "trailing_spaces_save_after_trim": true,
     "translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": true,
-    "use_simple_full_screen": true,
+    "use_simple_full_screen": false,
     "use_tab_stops": true,
     "vintage_start_in_command_mode": true,
     "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",

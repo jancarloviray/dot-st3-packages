@@ -7,6 +7,18 @@
         "gutter_theme_excludes": [],
         "lint_mode": "background",
         "linters": {
+            "annotations": {
+                "@disable": false,
+                "args": [],
+                "errors": [
+                    "FIXME"
+                ],
+                "excludes": [],
+                "warnings": [
+                    "TODO",
+                    "README"
+                ]
+            },
             "eslint": {
                 "@disable": false,
                 "args": [],
@@ -43,13 +55,13 @@
         "show_errors_on_save": false,
         "show_marks_in_minimap": true,
         "syntax_map": {
+            "JSON (Babel)": "javascript",
+            "JavaScript (Babel)": "javascript",
             "html (django)": "html",
             "html (rails)": "html",
             "html 5": "html",
             "php": "html",
-            "python django": "python",
-            "JavaScript (Babel)": "javascript",
-            "JSON (Babel)": "javascript"
+            "python django": "python"
         },
         "warning_color": "DDB700",
         "wrap_find": true
