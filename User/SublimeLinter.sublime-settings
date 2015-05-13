@@ -57,6 +57,7 @@
         "syntax_map": {
             "JSON (Babel)": "javascript",
             "JavaScript (Babel)": "javascript",
+            "javascript (babel)": "javascript",
             "html (django)": "html",
             "html (rails)": "html",
             "html 5": "html",
